@@ -1,4 +1,4 @@
-
+<?php
 // Obtenemos la conexión con la base de datos
 $db = JFactory::getDbo();
 
